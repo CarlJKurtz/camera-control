@@ -18,5 +18,6 @@ Images are saved to an folder called *output.*
 
 ## Notes
 - Tested on macOS. Microscope must be connected via USB.
+- Tested with a Jiusion USB Microscope found on Amazon. Will recognise all cameras connected to macbook, including built cameras and connected iphones.
 - If an iPhone or your Mac's camera appears first, deny that device's camera permission and re-run so the USB microscope is selected.
 - Readme.md was written with the help of AI
